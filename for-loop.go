@@ -12,7 +12,9 @@ func main()  {
 	}
 	fmt.Println(sum)
 }
-
+// create a for loop by using keyword "for", providing a conditional expression which is either true or false.
+// if condition is false it will jump into the next line of our program
+// if condition is true then it will run the statements inside of the block{}.
 /* forever run
 package main
 
