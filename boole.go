@@ -12,6 +12,7 @@ false || false   false
 !true          	 false
 !false           true
 */
+
 package main
 
 import ( 
