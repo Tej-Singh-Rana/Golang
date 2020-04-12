@@ -27,22 +27,22 @@ fmt.Println("User5 data is : ",val2)
 
 // Modifiying data
 
-new_user := user
+newUser := user
 
-new_user["User6"] = "Investors to the world"
-new_user["User7"] = "Marketing meetings schedule"
+newUser["User6"] = "Investors to the world"
+newUser["User7"] = "Marketing meetings schedule"
 
-fmt.Println("User's and their data :-- ", new_user)
+fmt.Println("User's and their data :-- ", newUser)
 
 // Deleting 
 // delete function format :- delete(map-name,key)
-delete(new_user,"User3")
-delete(new_user,"User6")
+delete(newUser,"User3")
+delete(newUser,"User6")
 
-fmt.Println("After deleted, updated list :-- ", new_user)
+fmt.Println("After deleted, updated list :-- ", newUser)
 // checking user existing or not
 // boolean :- true || false
-t1, ok := new_user["User1"]
+t1, ok := newUser["User1"]
 if ok == true{
 	fmt.Println("User is present.")
 	fmt.Println("User data is : ",t1)

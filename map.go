@@ -9,10 +9,10 @@ import "fmt"
 
 func main(){
 	// initializing map
-	var map_1 = map[string]string{"car":"Bmw","model":"UG29VGL","year":"2020","color":"blue",}
+	var map1 = map[string]string{"car":"Bmw","model":"UG29VGL","year":"2020","color":"blue",}
 
-	fmt.Println("Element is : ", map_1)
-	fmt.Println("Car is : ", map_1["car"])
+	fmt.Println("Element is : ", map1)
+	fmt.Println("Car is : ", map1["car"])
 
 
 }
