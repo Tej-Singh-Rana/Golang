@@ -20,8 +20,12 @@ func main(){
 		// value updated
 			a = 2000
 		 // initialization of pointer
+		 // pointer variable
+		 // holds the value of variable "a"
+		 // assigned a memory address --> "&a"
 			p = &a
 			// assigning a new value to pointer
+			// print the value of pointer "&a" value
 			*p = 4500
 
 			fmt.Println("updated value of \"a\" : ",a)
