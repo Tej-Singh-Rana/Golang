@@ -36,3 +36,13 @@
   * Input / Output
   * Files & Folders
   * Errors
+## GO & OOP
+ * Methods
+ * Package Oriented design
+ * Type embedding
+ * Interfaces
+- Encapsulation
+- Message passing
+- Inheritance
+- Composition
+- Polymorphism
