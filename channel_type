@@ -1,0 +1,12 @@
+Channel Types :-
+
+ch := make(chan int)  // created channels are always bidirectional
+
+func myFunction(ch chan int) { ... }        // bidirectional channel
+// receive and send messages
+
+func myFunction(ch chan<- int) { ... }       // send-only channel
+// restrict to only send messages
+
+func myFunction(ch <-chan int) { ... }        // receive-only channel
+// restrict to only receive messages
