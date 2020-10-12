@@ -9,3 +9,8 @@
 ### Join Golang Slack/Discord
 
 - [Official Golang Slack/Discord](https://golang.org/help/)
+
+### Community/Labs
+
+- [Gopher Academy](https://blog.gopheracademy.com/)
+- [Gopherlabs Kubedaily](https://gopherlabs.kubedaily.com/)
