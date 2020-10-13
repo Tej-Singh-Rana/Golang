@@ -14,3 +14,4 @@
 
 - [Gopher Academy](https://blog.gopheracademy.com/)
 - [Gopherlabs Kubedaily](https://gopherlabs.kubedaily.com/)
+- [Gophercises](https://gophercises.com/)
