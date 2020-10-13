@@ -16,3 +16,4 @@
 - [Gopherlabs Kubedaily](https://gopherlabs.kubedaily.com/)
 - [Gophercises](https://gophercises.com/)
 - [Gobyexample](https://gobyexample.com/)
+- [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
