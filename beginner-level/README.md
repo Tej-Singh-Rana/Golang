@@ -18,3 +18,4 @@
 - [Gobyexample](https://gobyexample.com/)
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Go Track with Exercism](https://exercism.io/tracks/go)
+- [Gopherguides](https://www.gopherguides.com/articles/)
