@@ -20,4 +20,4 @@
 - [Go Track with Exercism](https://exercism.io/tracks/go)
 - [Gopherguides](https://www.gopherguides.com/articles/)
 - [Learning Go](https://github.com/miekg/learninggo)
-- 
+- [Golang Examples](https://github.com/SimonWaldherr/golang-examples)
