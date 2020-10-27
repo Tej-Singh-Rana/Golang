@@ -21,3 +21,5 @@
 - [Gopherguides](https://www.gopherguides.com/articles/)
 - [Learning Go](https://github.com/miekg/learninggo)
 - [Golang Examples](https://github.com/SimonWaldherr/golang-examples)
+- [Golangdocs](https://golangdocs.com/)
+
