@@ -1,5 +1,11 @@
 # Golang
-## Golang basic example codes.
+----------
+
+- [Beginner Level Source](https://github.com/Tej-Singh-Rana/Golang/blob/master/beginner-level/README.md)
+
+## Golang Basic Example Code:
+------------------------------
+
 - Types
 - Variables
 - Control Structures
@@ -36,13 +42,16 @@
   * Input / Output
   * Files & Folders
   * Errors
-## GO & OOP
- * Methods
- * Package Oriented design
- * Type embedding
- * Interfaces
+  
+## GO & OOP:
+-------------
+-
+  * Methods
+  * Package Oriented Design
+  * Type Embedding
+  * Interfaces
 - Encapsulation
-- Message passing
+- Message Passing
 - Inheritance
 - Composition
 - Polymorphism
