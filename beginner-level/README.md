@@ -23,4 +23,4 @@
 - [Golang Examples](https://github.com/SimonWaldherr/golang-examples)
 - [Golangdocs](https://golangdocs.com/)
 - [Golang-design History](https://github.com/golang-design/history)
-
+- [Golangbot](https://golangbot.com/)
