@@ -25,4 +25,5 @@
 - [Golang-design History](https://github.com/golang-design/history)
 - [Golangbot](https://golangbot.com/)
 - [Calhoun.io](https://www.calhoun.io/guide-to-go/)
-- [Algorithms-with-Go](https://algorithmswithgo.com/)
+- [Algorithms with Go](https://algorithmswithgo.com/)
+
