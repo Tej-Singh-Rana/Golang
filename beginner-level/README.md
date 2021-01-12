@@ -6,10 +6,11 @@
 - [Topics](https://golang.org/doc/effective_go.html)
 - [Articles Page](https://golang.org/doc/#articles)
 
-### Video
+### Videos
 ---------
 
 - [Go Programming Design Guildelines](https://youtu.be/Y8bMBGrB6zY)
+- [7 common mistakes in Go and when to avoid them - Steve Francia](https://youtu.be/29LLRKIL_TI)
 
 ### Join Golang Slack/Discord
 -----------------------------
