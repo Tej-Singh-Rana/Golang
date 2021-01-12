@@ -6,11 +6,18 @@
 - [Topics](https://golang.org/doc/effective_go.html)
 - [Articles Page](https://golang.org/doc/#articles)
 
+### Video
+---------
+
+- [Go Programming Design Guildelines](https://youtu.be/Y8bMBGrB6zY)
+
 ### Join Golang Slack/Discord
+-----------------------------
 
 - [Official Golang Slack/Discord](https://golang.org/help/)
 
 ### Community/Labs
+------------------
 
 - [Gopher Academy](https://blog.gopheracademy.com/)
 - [Gopherlabs Kubedaily](https://gopherlabs.kubedaily.com/)
@@ -26,4 +33,7 @@
 - [Golangbot](https://golangbot.com/)
 - [Calhoun.io](https://www.calhoun.io/guide-to-go/)
 - [Algorithms with Go](https://algorithmswithgo.com/)
+
+
+
 
