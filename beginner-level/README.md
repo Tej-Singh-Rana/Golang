@@ -36,5 +36,9 @@
 - [Calhoun.io](https://www.calhoun.io/guide-to-go/)
 - [Algorithms with Go](https://algorithmswithgo.com/)
 - [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)
-
+- [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+- [Golang Training](https://github.com/GoesToEleven/GolangTraining)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [Golang Examples](https://github.com/SimonWaldherr/golang-examples)
+- [Learn Go With Tests](https://github.com/quii/learn-go-with-tests)
 
