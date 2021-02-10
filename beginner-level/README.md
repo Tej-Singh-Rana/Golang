@@ -40,5 +40,5 @@
 - [Golang Training](https://github.com/GoesToEleven/GolangTraining)
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [Golang Examples](https://github.com/SimonWaldherr/golang-examples)
-- [Learn Go With Tests](https://github.com/quii/learn-go-with-tests)
+- [Play with Go](https://play-with-go.dev/)
 
