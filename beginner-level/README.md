@@ -45,6 +45,7 @@
 - [GolangBootCamp](http://www.golangbootcamp.com/book)
 - [Divan Blog](https://divan.dev/)
 - [Dmitri Blog](https://dmitri.shuralyov.com/idiomatic-go)
+- [Awesome Go](https://github.com/avelino/awesome-go)
 
 ### Contribute
 
