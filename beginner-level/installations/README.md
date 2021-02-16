@@ -68,6 +68,7 @@
      ```
 - [GOROOT and GOPATH](https://www.jetbrains.com/help/go/configuring-goroot-and-gopath.html)
 - [Small introduction of Root Directory in Linux](https://youtu.be/ucctAawSnj8)
+- [Settings for Mac/Linux](https://learn.gopherguides.com/courses/preparing-your-environment-for-go-development/modules/setting-up-mac-linux/)
 
 ### Install `Go` in Windows system
 
@@ -80,5 +81,5 @@
   
 - [Instructions from Official page](https://golang.org/doc/install#install)
 - [To set __Environment variables__ in Windows Machine](https://www.computerhope.com/issues/ch000549.htm)
-
+- [Settings for Windows](https://learn.gopherguides.com/courses/preparing-your-environment-for-go-development/modules/setting-up-windows/)
 
