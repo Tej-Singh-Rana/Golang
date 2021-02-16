@@ -1,7 +1,13 @@
 # Golang
 ----------
 
-- [Beginner Level Source](https://github.com/Tej-Singh-Rana/Golang/blob/master/beginner-level/README.md)
+|    __Name__        |                __Link__                  |
+| -------------      | ---------------------------------------- |
+| __Official Site__  | [__Go Official__](https://golang.org/)   |
+| __Go Docs Site__   | [__Learn Go__](https://learn.go.dev/)    |
+
+
+- [__Beginner Level Resource__](https://github.com/Tej-Singh-Rana/Golang/blob/master/beginner-level/README.md)
 
 ## Golang Basic Example Code:
 ------------------------------
