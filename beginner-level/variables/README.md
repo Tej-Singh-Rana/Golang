@@ -2,6 +2,11 @@
 
 In this section, we will see how many ways we can declare __variables__.  
 
+#### Go Docs
+
+- [__Variables__](https://golang.org/ref/spec#Variables)
+- [__Variables__ Declaration](https://golang.org/ref/spec#Variable_declarations)
+
 #### Blogs
 
 - [How to use __variables__](https://www.digitalocean.com/community/tutorials/how-to-use-variables-and-constants-in-go)
@@ -11,7 +16,7 @@ In this section, we will see how many ways we can declare __variables__.  
 
 #### Videos
 
-- [Variables](https://youtu.be/J8bWb2Nu1Fg)
-- [Variables](https://youtu.be/Prbd0f2UDAM)
+- [__Variables__](https://youtu.be/J8bWb2Nu1Fg)
+- [__Variables__](https://youtu.be/Prbd0f2UDAM)
 
 
