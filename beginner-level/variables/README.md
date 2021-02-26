@@ -6,6 +6,7 @@ In this section, we will see how many ways we can declare __variables__.  
 
 - [__Variables__](https://golang.org/ref/spec#Variables)
 - [__Variables__ Declaration](https://golang.org/ref/spec#Variable_declarations)
+- [__Variables__](https://golang.org/doc/effective_go#variables)
 - [__Blank Identifier__](https://golang.org/doc/effective_go#blank)
 
 #### Blogs
