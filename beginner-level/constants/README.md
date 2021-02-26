@@ -1,5 +1,9 @@
 # Constants | Const
 
+#### Go Docs
+
+- [__Constants__](https://golang.org/doc/effective_go#constants)
+
 #### Blogs
 
 - [__Constants__](https://blog.golang.org/constants)
