@@ -1,5 +1,9 @@
 # Command Line Tools
 
+# Go Docs
+
+- [Go Commands](https://golang.org/cmd/go/)
+
 # Videos
 
 - [Debugging Code Generation in Go (GopherCon 2020) - Jaana Dogan](https://youtu.be/qPIB3STWXVk)
