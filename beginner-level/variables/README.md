@@ -15,6 +15,7 @@ In this section, we will see how many ways we can declare __variables__.  
 - [Data Types in Go](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go)
 - [Convert Data Types in Go](https://www.digitalocean.com/community/tutorials/how-to-convert-data-types-in-go)
 - [Declaration Syntax](https://blog.golang.org/declaration-syntax)
+- [__Variables__](https://golangbot.com/variables/)
 
 #### Videos
 
