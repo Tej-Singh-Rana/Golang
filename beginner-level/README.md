@@ -18,6 +18,11 @@
 
 - [Official Golang Slack/Discord](https://golang.org/help/)
 
+### Go Forum
+-------------
+
+- [Go Forum](https://forum.golangbridge.org/)
+
 ### Community/Labs
 ------------------
 
