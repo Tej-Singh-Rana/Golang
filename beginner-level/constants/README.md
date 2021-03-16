@@ -3,6 +3,7 @@
 #### Go Docs
 
 - [__Constants__](https://golang.org/doc/effective_go#constants)
+- [__Constants__](https://golang.org/ref/spec#Constants)
 
 #### Blogs
 
