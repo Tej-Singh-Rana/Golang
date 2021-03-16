@@ -2,6 +2,23 @@
 
 In this section, we will see how many ways we can declare __variables__.  
 
+#### Sample Code
+
+```go
+package main
+
+import "fmt"
+
+//<keyword> <variable> <static-type>
+ var foo int
+
+func main() {
+	// func body
+	foo = 12   // assign integer value
+	fmt.Println(foo)   // print the result with new line
+ }
+
+```
 #### Go Docs
 
 - [__Variables__](https://golang.org/ref/spec#Variables)
