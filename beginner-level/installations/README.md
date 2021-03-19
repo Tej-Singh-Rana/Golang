@@ -54,10 +54,10 @@
      
      $ . ~/.bashrc
      ```
-     > Error:- `go: cannot find GOROOT directory`. To fix this issue, set the `GOPATH` path. 
+     > Error:- `go: cannot find GOROOT directory`. To fix this issue, set the `GOROOT` path. 
    - In my case, 
      ```sh
-     $ echo 'export GOPATH="/usr/bin/go/bin/go"' >> ~/.bashrc
+     $ echo 'export GOROOT="/usr/bin/go"' >> ~/.bashrc
      
      $ . ~/.bashrc
      ```
@@ -66,6 +66,8 @@
      $ go version
      go version go1.15.8 linux/amd64
      ```
+> Note :- __GOPATH__ - Your Go source code directory _{src, pkg, bin}_ and default for linux (`$HOME/go`), __GOROOT__ - Your Go installation path. 
+
 - [GOROOT and GOPATH](https://www.jetbrains.com/help/go/configuring-goroot-and-gopath.html)
 - [Small introduction of Root Directory in Linux](https://youtu.be/ucctAawSnj8)
 - [Settings for Mac/Linux](https://learn.gopherguides.com/courses/preparing-your-environment-for-go-development/modules/setting-up-mac-linux/)
