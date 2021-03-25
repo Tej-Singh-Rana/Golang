@@ -26,6 +26,7 @@
 ### Community/Labs
 ------------------
 
+- [Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [Gopher Academy](https://blog.gopheracademy.com/)
 - [Gopherlabs Kubedaily](https://gopherlabs.kubedaily.com/)
 - [Gophercises](https://gophercises.com/)
