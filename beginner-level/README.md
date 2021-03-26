@@ -54,6 +54,7 @@
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Go Resources](https://github.com/biberlabs/go-resources)
 - [Cloud Academy](https://github.com/cloudacademy/learn-go)
+- [Golang Notes](https://github.com/luciotato/golang-notes)
 
 ### Contribute
 
