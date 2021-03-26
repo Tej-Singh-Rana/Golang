@@ -58,11 +58,22 @@
 - [Golang Regex Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)
 - [Hacking with Go](https://github.com/parsiya/Hacking-with-Go)
 - [Golang Tutorials](https://github.com/callicoder/golang-tutorials)
+- [Golang Examples](https://github.com/CodelyTV/golang-examples)
+- [Golang Tutorials](https://github.com/alexandregama/golang-tutorials)
+- [Golang step by step](https://github.com/Shitaibin/golang_step_by_step)
+- [Golang Book Examples](https://github.com/shapeshed/golang-book-examples)
+
+
+
+### Algorithm
+
+- [Go Algorithms](https://github.com/0xAX/go-algorithms)
+- [Golang Algorithms](https://github.com/TomorrowWu/golang-algorithms)
 
 ### Interview 
 
 - [Golang Interview](https://github.com/yqchilde/Golang-Interview)
-
+- [Coding Interviews Golang](https://github.com/DinghaoLI/Coding-Interviews-Golang)
 
 ### Contribute
 
