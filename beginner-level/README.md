@@ -55,6 +55,7 @@
 - [Go Resources](https://github.com/biberlabs/go-resources)
 - [Cloud Academy](https://github.com/cloudacademy/learn-go)
 - [Golang Notes](https://github.com/luciotato/golang-notes)
+- [Golang Regex Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)
 
 ### Contribute
 
