@@ -57,6 +57,7 @@
 - [Golang Notes](https://github.com/luciotato/golang-notes)
 - [Golang Regex Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial)
 - [Hacking with Go](https://github.com/parsiya/Hacking-with-Go)
+- [Golang Tutorials](https://github.com/callicoder/golang-tutorials)
 
 ### Interview 
 
