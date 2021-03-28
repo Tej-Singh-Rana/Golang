@@ -12,6 +12,7 @@
 
 - [Go Programming Design Guildelines](https://youtu.be/Y8bMBGrB6zY)
 - [7 common mistakes in Go and when to avoid them - Steve Francia](https://youtu.be/29LLRKIL_TI)
+- [Online Golang Conf 2021 : Golang Workshop (Beginner Level) - Sébastien Friess](https://youtu.be/sIDFckgfnHE)
 
 ### Join Golang Slack/Discord
 -----------------------------
