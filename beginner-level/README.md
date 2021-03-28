@@ -75,6 +75,10 @@
 - [Golang Interview](https://github.com/yqchilde/Golang-Interview)
 - [Coding Interviews Golang](https://github.com/DinghaoLI/Coding-Interviews-Golang)
 
+### Ebooks
+
+- [Golang Books](https://github.com/diptomondal007/GoLangBooks)
+- []()
 ### Contribute
 
 - [Codetriage](https://www.codetriage.com/)
