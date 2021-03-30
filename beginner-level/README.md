@@ -65,7 +65,7 @@
 - [Golang step by step](https://github.com/Shitaibin/golang_step_by_step)
 - [Golang Book Examples](https://github.com/shapeshed/golang-book-examples)
 - [Golang Articles](https://github.com/1ambda/golang)
-
+- [Learn Go with Microsoft Modules](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
 
 ### Algorithm
 
