@@ -83,7 +83,7 @@
 ### Ebooks
 
 - [Golang Books](https://github.com/diptomondal007/GoLangBooks)
-- []()
+- [Go Books](https://github.com/dariubs/GoBooks)
 
 ### Images
 
