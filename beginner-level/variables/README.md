@@ -9,13 +9,18 @@ package main
 
 import "fmt"
 
-//<keyword> <variable> <static-type>
+//<keyword> <variable-name> <static-type>
  var foo int
+
+// var name type = expression
+ var bar string = "cooper"
 
 func main() {
 	// func body
 	foo = 12   // assign integer value
 	fmt.Println(foo)   // print the result with new line
+	fmt.Println(bar)  
+
  }
 
 ```
