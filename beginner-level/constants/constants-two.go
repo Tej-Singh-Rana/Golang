@@ -2,8 +2,10 @@ package main
 
 import "fmt"
 
-func main(){
-      // Declare inside main func
-      
+const goal string = "2021"
+
+func main() {
+	// Declare inside main func
+	fmt.Println(goal)
 
 }
