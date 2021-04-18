@@ -22,3 +22,18 @@ import (
  )
 ```
 
+#### Command Line 
+
+- Command line tools to get more help.
+ 
+> To read the documentation about "fmt" package.
+
+```cmd
+$ go doc fmt
+```
+
+> For the help
+
+```cmd
+$ go help fmt
+```
