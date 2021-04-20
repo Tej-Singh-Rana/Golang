@@ -8,7 +8,10 @@
 
 	case 2:
 		// code block for case 2
-
+		
+	case N:
+		// code block for Nth case
+		
 	default:
 		// code block for default case
 
