@@ -67,6 +67,7 @@
 - [Golang Articles](https://github.com/1ambda/golang)
 - [Learn Go with Microsoft Modules](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
 - [Learn Golang Series](https://golangbot.com/learn-golang-series/)
+- [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 - [_Technical Blogs of Golang_](https://draft.dev/learn/technical-blogs/golang)
 
 ### Algorithm
