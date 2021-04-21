@@ -10,3 +10,4 @@ func main() {
    
 }
 ```
+> Note:- All elements should be same type. 
