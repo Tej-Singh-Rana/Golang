@@ -79,6 +79,10 @@
 - [Go Algorithms](https://github.com/0xAX/go-algorithms)
 - [Golang Algorithms](https://github.com/TomorrowWu/golang-algorithms)
 
+### Web Development with Go
+
+- [Build Web Application with Golang](https://github.com/astaxie/build-web-application-with-golang)
+
 ### Interview 
 
 - [Golang Interview](https://github.com/yqchilde/Golang-Interview)
