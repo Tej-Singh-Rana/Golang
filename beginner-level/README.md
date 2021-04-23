@@ -82,6 +82,7 @@
 ### Web Development with Go
 
 - [Build Web Application with Golang](https://github.com/astaxie/build-web-application-with-golang)
+- [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
 
 ### Interview 
 
