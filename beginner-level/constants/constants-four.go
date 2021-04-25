@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	// Declare and Initialize constant (const) variables.
+	// Declare and Initialize constant (const) variables inside main function block.
 	const reverse string = "Ultra violet"
 	const limit int = 2000
 
