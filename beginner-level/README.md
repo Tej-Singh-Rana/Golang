@@ -6,6 +6,7 @@
 - [Topics](https://golang.org/doc/effective_go.html)
 - [Articles Page](https://golang.org/doc/#articles)
 - [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)
+- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
 
 ### Videos
 ---------
@@ -48,6 +49,7 @@
 - [Calhoun.io](https://www.calhoun.io/guide-to-go/)
 - [Algorithms with Go](https://algorithmswithgo.com/)
 - [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)
+- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
 - [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [Golang Training](https://github.com/GoesToEleven/GolangTraining)
 - [Go Books](https://github.com/dariubs/GoBooks)
