@@ -74,6 +74,8 @@
 - [Learn Go with Microsoft Modules](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
 - [Learn Golang Series](https://golangbot.com/learn-golang-series/)
 - [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
+- [Working with Go Blog](https://mkaz.blog/working-with-go/)
+- [Go Tooling Blog](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [_Technical Blogs of Golang_](https://draft.dev/learn/technical-blogs/golang)
 
 ### Algorithm
