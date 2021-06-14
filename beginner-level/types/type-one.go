@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	// Main function body
-  
+
 }
