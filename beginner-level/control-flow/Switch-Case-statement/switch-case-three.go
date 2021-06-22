@@ -1,4 +1,4 @@
-package main  
+package main
 
 import "fmt"
 
@@ -14,3 +14,9 @@ func main() {
 		fmt.Println("None")
 	}
 }
+
+/*
+Output :-
+
+Correct case.
+*/
