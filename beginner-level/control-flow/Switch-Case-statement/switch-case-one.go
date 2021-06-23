@@ -1,9 +1,26 @@
-package main   // declared main package
+package main // declared main package
 
 // imported fmt package
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-   // main func body
+	// main func body
+	// Simple switch case statement
+	var name = "John"
+	name = "Ram"
+	switch name {
+	case "Ram":
+		fmt.Println("This is Ram.")
+	case "John":
+		fmt.Println("This is John.")
+	}
 
 }
+
+/*
+Output :-
+This is Ram.
+
+*/
