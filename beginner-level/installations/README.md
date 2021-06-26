@@ -84,4 +84,6 @@
 - [Instructions from Official page](https://golang.org/doc/install#install)
 - [To set __Environment variables__ in Windows Machine](https://www.computerhope.com/issues/ch000549.htm)
 - [Settings for Windows](https://learn.gopherguides.com/courses/preparing-your-environment-for-go-development/modules/setting-up-windows/)
+- [Managing __multiple Go versions with Go tool__](https://lakefs.io/managing-multiple-go-versions-with-go/)
+
 
