@@ -77,6 +77,7 @@
 - [Working with Go Blog](https://mkaz.blog/working-with-go/)
 - [Go Tooling Blog](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [_Technical Blogs of Golang_](https://draft.dev/learn/technical-blogs/golang)
+- [Advanced Go Programming Bootcamp](https://github.com/PacktPublishing/Advanced-Go-Programming-in-7-Days)
 
 ### Algorithm
 
