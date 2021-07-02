@@ -17,3 +17,9 @@ func main() {
 	fmt.Println(name, position)
 	fmt.Printf("Type = %T, %T", name, position)
 }
+
+/*
+_Output_:-
+SRE 1
+Type = main.Role, main.Number
+*/
