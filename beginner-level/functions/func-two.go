@@ -31,3 +31,10 @@ func main() {
 	fmt.Println(cole)
 
 }
+
+/*
+_Output_:-
+What? Too hot
+It's late
+
+*/
