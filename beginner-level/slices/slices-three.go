@@ -5,9 +5,12 @@ import (
 )
 
 func main() {
-   // Main code block
-  // Slice literal, where we don't specify length inside square brackets[]. 
+	// Main code block
+	// Slice literal, where we don't specify length inside square brackets[].
 
+	// a slice of type string
+	// creating a slice using a slice literal
+	// no size/length
 	var student = []string{
 		"john",
 		"jacob",
@@ -21,7 +24,6 @@ func main() {
 		fmt.Println(count)
 	}
 }
-
 
 /*
 _Output_:-
