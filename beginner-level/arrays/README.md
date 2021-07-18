@@ -1,6 +1,6 @@
 # Arrays [length]type{items}
 
-- In this section, you will learn about an __`array` in `Go` language__.
+- In this section, we will learn about an __`array` in `Go` language__.
 
 ### Sample Code
 
