@@ -4,6 +4,8 @@ import "fmt"
 
 func main() {
 	// code block
+	// Simple switch case statement
+
 	goo := 10
 	switch goo {
 	case 10:
