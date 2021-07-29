@@ -30,3 +30,11 @@ func main() {
 
 __Output__:- cannot use 2021 (type untyped int) as type string in slice literal
 ```
+
+
+## References
+
+### - [Slices Intro](https://blog.golang.org/slices-intro)
+
+
+
