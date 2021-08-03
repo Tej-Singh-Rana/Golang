@@ -7,7 +7,9 @@
 | __Go Docs Site__   | [__Learn Go__](https://learn.go.dev/)    |
 
 
-- [__Beginner Level Resource__](https://github.com/Tej-Singh-Rana/Golang/blob/master/beginner-level/README.md)
+- [__Beginner Level Resources__](https://github.com/Tej-Singh-Rana/Golang/blob/master/beginner-level/README.md)
+- [__Intermediate Level Resources__](https://github.com/Tej-Singh-Rana/Golang/blob/master/intermediate-level/README.md)
+
 
 ## Golang Basic Example Code:
 ------------------------------
