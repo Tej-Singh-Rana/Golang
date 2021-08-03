@@ -11,3 +11,12 @@ func functionName( arguments ) type {
      
  }
 ```
+
+####  Note :- The main function takes no arguments and returns no values.
+
+```go
+package main 
+
+func main() {}
+
+```
