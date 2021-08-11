@@ -97,6 +97,11 @@
 - [Go Questions](https://github.com/logpacker/go-questions)
 - [Go Interview](https://github.com/shomali11/go-interview)
 
+### Projects
+
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning#go)
+- [Bot for Discord](https://dev.to/aurelievache/learning-go-by-examples-part-4-create-a-bot-for-discord-in-go-43cf)
+
 ### Ebooks
 
 - [Golang Books](https://github.com/diptomondal007/GoLangBooks)
