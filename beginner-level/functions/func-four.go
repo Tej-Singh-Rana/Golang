@@ -5,7 +5,8 @@ import (
 )
 
 func main() {
- // Code block
-  
-}
+	// Main code block
+	public and private function
 
+
+}
