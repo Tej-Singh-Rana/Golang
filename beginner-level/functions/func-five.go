@@ -1,11 +1,19 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
-  // Main code block
+	// Main code block
 
+	// Anonymous Function
+	func() {
+		fmt.Println("Testing anonymous activity.")
+	}()
 }
+
+/*
+_Output_:-
+Testing anonymous activity.
+
+*/
 
