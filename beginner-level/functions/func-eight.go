@@ -1,11 +1,39 @@
-  
 package main
 
 import (
 	"fmt"
 )
 
-func main() {
- // Code block
-  
+// Precedence
+
+// init() function
+
+func init() {
+
 }
+
+// Variable
+
+var ()
+
+func init() {
+
+}
+
+// main() function
+
+func main() {
+	// Main code block
+
+}
+
+func init() {
+
+}
+
+
+/*
+_Output_:-
+
+
+*/
