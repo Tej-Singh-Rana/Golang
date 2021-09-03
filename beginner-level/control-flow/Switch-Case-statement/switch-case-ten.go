@@ -1,3 +1,4 @@
+// Go playground - https://play.golang.org/p/86BEjA4QilJ
 package main
 
 import (
