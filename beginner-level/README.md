@@ -114,6 +114,11 @@
 - [Gophers Pack](https://github.com/egonelbre/gophers)
 - [Gophers Pack](https://github.com/nlepage/gophers)
 
+### Go Practice Platforms
+
+- [Code Wars](https://www.codewars.com/)
+- [Leet Code](https://leetcode.com/)
+- [Tutorial Edge](https://tutorialedge.net/challenges/go/)
 
 ### Contribute
 
