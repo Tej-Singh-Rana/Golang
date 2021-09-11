@@ -74,3 +74,7 @@ func main() {
 	fmt.Println(x)
 }
 ```
+
+#### Go Docs
+
+- [__If__ Statement](https://golang.org/ref/spec#If_statements)
