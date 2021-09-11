@@ -38,7 +38,11 @@ switch expression {
 }
 ```
 
-### Resources
+#### Go Docs
+
+- [__Switch Case__ Statement](https://golang.org/ref/spec#Switch_statements)
+
+#### Resources
 
 - [Switch Case Statement](https://www.dotnetperls.com/switch-go)
 - [Execution Order](https://yourbasic.org/golang/switch-statement/)
