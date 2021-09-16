@@ -10,6 +10,7 @@ func main() {
 	// Main code block
 
 	// integer pointer
+	// a pointer of type integer
 	var cash *int
 
 	widCash := 5000
@@ -25,5 +26,6 @@ func main() {
 _Output_:-
 5000 0xc000112000 5000
 cash type is: *int, widCash type is: int
+
 
 */
