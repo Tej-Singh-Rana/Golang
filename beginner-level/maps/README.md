@@ -4,4 +4,16 @@
 
 ### Sample Code
 
+```go
+package main
 
+import "fmt"
+
+func main() {
+	// Main code block
+	// map[KeyType]ValueType
+
+	var m map[string]string
+	fmt.Println(m)
+}
+```
