@@ -80,6 +80,11 @@
 - [_Technical Blogs of Golang_](https://draft.dev/learn/technical-blogs/golang)
 - [Advanced Go Programming Bootcamp](https://github.com/PacktPublishing/Advanced-Go-Programming-in-7-Days)
 
+### Common mistakes in Go
+
+- [Common Mistakes in Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
+
 ### Algorithm
 
 - [Go Algorithms](https://github.com/0xAX/go-algorithms)
@@ -88,6 +93,7 @@
 ### Web Development with Go
 
 - [Build Web Application with Golang](https://github.com/astaxie/build-web-application-with-golang)
+- [Building Web Applications with Golang - Site](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 - [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
 
 ### Interview 
