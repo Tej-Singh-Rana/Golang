@@ -1,9 +1,19 @@
-package main // package delcaration
+package main // package declaration 
 
 import "fmt"
 
 
 func main() {
-   // func body
-  
- }
+    // Main code block
+
+
+}
+
+
+/*
+_Output_:-
+
+
+
+*/
+
