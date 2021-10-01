@@ -4,7 +4,16 @@ import "fmt"
 
 
 func main() {
-    // Main code block
-    
+   // Main code block
+
 
 }
+
+
+/*
+_Output_:-
+
+
+*/
+
+
