@@ -1,8 +1,18 @@
 // 
+
 package main
 
+import (
+	"fmt"
+)
+
 func main() {
-    // Main body
-  
-  
+	// Main code block
 }
+
+
+/*
+_Output_:-
+
+
+*/
