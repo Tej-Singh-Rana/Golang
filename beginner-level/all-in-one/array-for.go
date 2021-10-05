@@ -1,17 +1,21 @@
 package main
 
 import (
-    "fmt" 
+	"fmt"
 )
 
-var (
-   
-)
+var ()
 
 func main() {
-   // Main code block
-  var (
-     
-  )
-    
+	// Main code block
+
+	var ()
+
 }
+
+
+/*
+_Output_:-
+
+
+*/
