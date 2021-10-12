@@ -33,6 +33,7 @@
 ### Community/Labs
 ------------------
 
+- [Exercism - Free Go Practice Platform](https://exercism.org/tracks/go)
 - [Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [Gopher Academy](https://blog.gopheracademy.com/)
 - [Gopherlabs Kubedaily](https://gopherlabs.kubedaily.com/)
