@@ -13,7 +13,7 @@
 ## Online Go Talks
 ----
 
-- []()
+- [Go Time Podcast](https://changelog.com/gotime)
 
 ## Blogs
 ----
