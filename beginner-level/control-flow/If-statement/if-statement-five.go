@@ -1,9 +1,11 @@
+// https://play.golang.org/p/o_efa_iP1Tm
+
 package main
 
 import "fmt"
 
 func main() {
-	// main code block
+	// Main code block
 
 	book := "Himalayan Travels"
 	var prize int
@@ -16,3 +18,11 @@ func main() {
 		fmt.Printf("Amount is not sufficient to purchase %s.", book)
 	}
 }
+
+
+/*
+_Output_:-
+Enter the amount to purchase the book :- 
+Added into the cart book: Himalayan Travels
+
+*/
