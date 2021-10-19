@@ -3,6 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	// main code block
+	// Main code block
 
 }
+
+/*
+_Output_:-
+
+
+*/
