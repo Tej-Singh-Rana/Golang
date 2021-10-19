@@ -1,3 +1,5 @@
+// https://play.golang.org/p/GXZK4LdoxK8
+
 package main
 
 import (
@@ -20,3 +22,10 @@ func main() {
 	}
 
 }
+
+/*
+_Output_:-
+PINCODE = 320012
+You're in correct plot.
+
+*/
