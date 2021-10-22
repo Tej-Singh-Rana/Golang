@@ -9,3 +9,9 @@ func main() {
 	z.Println("zz")
 
 }
+
+/*
+_Output_:-
+zz
+
+*/
