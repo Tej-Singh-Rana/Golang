@@ -15,6 +15,7 @@
 - [7 common mistakes in Go and when to avoid them - Steve Francia](https://youtu.be/29LLRKIL_TI)
 - [Online Golang Conf 2021 : Golang Workshop (Beginner Level) - Sébastien Friess](https://youtu.be/sIDFckgfnHE)
 - [Golang in under an hour (2021) - Eli Goldberg](https://youtu.be/N0fIANJkwic)
+- [GoDevNet: New Mentoring Platform For __Go Community__](https://www.youtube.com/watch?v=nXJX2FyeMv0)
 
 ### Join Golang Slack/Discord
 -----------------------------
