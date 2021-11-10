@@ -1,6 +1,14 @@
-package
+package main
 
 import 
 
+func main() {
+   // Main code block
+}
 
-func main() {}
+/*
+_Output_:-
+
+
+*/
+
