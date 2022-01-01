@@ -72,6 +72,7 @@
 - [Golang Tutorials](https://github.com/alexandregama/golang-tutorials)
 - [Golang step by step](https://github.com/Shitaibin/golang_step_by_step)
 - [Golang Book Examples](https://github.com/shapeshed/golang-book-examples)
+- [Go Generics Example](https://github.com/mattn/go-generics-example)
 - [Golang Articles](https://github.com/1ambda/golang)
 - [Learn Go with Microsoft Modules](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
 - [Learn Golang Series](https://golangbot.com/learn-golang-series/)
