@@ -79,6 +79,8 @@
 - [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 - [Working with Go Blog](https://mkaz.blog/working-with-go/)
 - [Go Training](https://github.com/harrytran103/7_days_of_go)
+- [Effective Go](https://github.com/golovers/effective-go)
+- [Go Interface Examples](https://github.com/Evertras/go-interface-examples)
 - [How to code in Go - DigitalOcean Blog](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 - [Go Tooling Blog](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [_Technical Blogs of Golang_](https://draft.dev/learn/technical-blogs/golang)
