@@ -10,6 +10,10 @@
 - [__Beginner Level Resources__](https://github.com/Tej-Singh-Rana/Golang/blob/master/beginner-level/README.md)
 - [__Intermediate Level Resources__](https://github.com/Tej-Singh-Rana/Golang/blob/master/intermediate-level/README.md)
 
+# Survey Reports 
+
+- [Go Developer Survery Report - 2021](https://go.dev/blog/survey2021-results)
+
 
 ## Golang Basic Example Code:
 ------------------------------
