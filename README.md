@@ -14,56 +14,12 @@
 
 - [Go Developer Survery Report - 2021](https://go.dev/blog/survey2021-results)
 
+# Wiki Pages
 
-## Golang Basic Example Code:
-------------------------------
+- [Official Golang Wiki Page](https://github.com/golang/go/wiki)
 
-- Types
-- Variables
-- Control Structures
-- If-Else Conditional Statements
-- Switch Case
-  * fallthrough
-- Nested Conditional Statements
-- For, While Loop
-  * Break
-  * Pass
-  * Continue
-- Arrays
-- Slice
-- Map
-- Basic Functions
-  * Variadic Function
-  * Make Function
-  * Panic Function
-  * Defer Function
-  * Recover Function
-  * Recursion Function
-  * Closure Function
-- Pointers(*-->asterisk,&-->ampersand)
-- Structs and Interfaces
-  * Structs
-  * Methods
-  * Interfaces
-- Concurrency
-  * Goroutines
-  * Channels
-- Packages
-- Core Packages
-  * Strings
-  * Input / Output
-  * Files & Folders
-  * Errors
-  
-## GO & OOP:
--------------
--
-  * Methods
-  * Package Oriented Design
-  * Type Embedding
-  * Interfaces
-- Encapsulation
-- Message Passing
-- Inheritance
-- Composition
-- Polymorphism
+
+
+
+
+
