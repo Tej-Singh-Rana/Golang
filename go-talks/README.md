@@ -6,6 +6,8 @@
 
 - [Golang Estonia](https://www.youtube.com/channel/UCHeIcjPXRniB1IlvgIpL0nw)
 
+- [Golang UK](https://www.youtube.com/c/GopherConUK)
+
 - [Marion Carrion](https://www.youtube.com/c/MarioCarrion)
 
 
