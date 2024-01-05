@@ -10,6 +10,6 @@
 
 - [Marion Carrion](https://www.youtube.com/c/MarioCarrion)
 
-
+- [Golang AU](https://www.youtube.com/@gopherconau)
 
 
