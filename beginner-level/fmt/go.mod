@@ -1,3 +1,3 @@
-module fmt
+module github/tej-singh-rana/Golang/fmt
 
-go 1.17
+go 1.23.0
