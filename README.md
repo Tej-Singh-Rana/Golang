@@ -13,6 +13,10 @@
 # Survey Reports 
 
 - [Go Developer Survery Report - 2021](https://go.dev/blog/survey2021-results)
+- [Go Developer Survery Report - 2022 Q2](https://go.dev/blog/survey2022-q2-results)
+- [Go Developer Survery Report - 2023 Q1](https://go.dev/blog/survey2023-q1-results)
+- [Go Developer Survery Report - 2023 H2](https://go.dev/blog/survey2023-h2-results)
+- [Go Developer Survery Report - 2024 H1](https://go.dev/blog/survey2024-h1-results)
 
 # Wiki Pages
 
