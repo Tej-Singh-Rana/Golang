@@ -7,6 +7,7 @@
 - [Articles Page](https://golang.org/doc/#articles)
 - [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)
 - [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
+- [Beginner Tutorial from Go Devs](https://go.dev/doc/tutorial/)
 
 ### Videos
 ---------
