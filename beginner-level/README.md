@@ -8,7 +8,9 @@
 - [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)
 - [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
 - [Beginner Tutorial from Go Devs](https://go.dev/doc/tutorial/)
-
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- [Learn Go in Y Mintues](learnxinyminutes.com)
+  
 ### Videos
 ---------
 
